@@ -13,7 +13,7 @@ The Project will change the size of coins depending on price and allow users to 
 
 Git Repo: https://github.falmouth.ac.uk/Games-Academy-Student-Work-22-23/GAM102_JB283210.git
 
-#References:
+# References:
 API Used: cryptocompare.com
 API Key: redacted
 
